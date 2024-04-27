@@ -155,3 +155,5 @@ cython_debug/
 *.json
 /kaggle-pg/S4E4/AutogluonModels
 /COMP5212/final-project/MachinLearningGrading/AutogluonModels
+/COMP5212/final-project/MachinLearningGrading/catboost_info
+/kaggle-pg/S4E4/catboost_info
